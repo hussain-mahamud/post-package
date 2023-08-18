@@ -1,7 +1,7 @@
 {
     "name": "hussain/post",
     "description": "This is a blogging system. From here you can manage your post/blog.",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
